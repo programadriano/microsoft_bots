@@ -1,0 +1,21 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "express": "^4.16.4",
+    "expressjs": "^1.0.1",
+    "johnny-five": "^1.0.0",
+    "nodemon": "^1.18.5",
+    "restify": "^7.2.1"
+  }
+}
