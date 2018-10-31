@@ -14,7 +14,7 @@ var inMemoryStorage = new builder.MemoryBotStorage();
 
 var bot = new builder.UniversalBot(connector, [
   function(session) {
-    session.send("Seja bem vindo ao XPTO Restaurante");
+    session.send("Seja bem vindo a Microsoft Restaurante");
     
     builder.Prompts.time(
       session,
