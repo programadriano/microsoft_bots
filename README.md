@@ -1,4 +1,5 @@
 # microsoft_bots
+Projeto desenvolvido para o meetup da Microsoft.
 
 Esse projeto está configurado com 3 exemplos:
 
